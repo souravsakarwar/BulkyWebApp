@@ -6,7 +6,7 @@
 
 2. After installation node and angular cli, open command prompt, copy this command **`npm install -g @angular/cli`** and install it.
 
-3. Now, download this code as zip or clone this repo **`https://github.com/anishVermaIsHere/ng-ecommerce.git`**.
+3. Now, download this code as zip or clone this repo **`https://github.com/SouravSakarwar/BulkyWebApp`**.
 
 4. Open VSCode Terminal with destination folder run the command **`ng new app_name`** and wait, after created the app copy all files of this app and paste it in your created app run command **`npm install`**.
 
